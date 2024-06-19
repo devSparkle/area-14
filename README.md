@@ -9,7 +9,7 @@
 <br />
 <br />
 
-An awesome thank you to the entire Area 14 team, which have allowed their work to be made available to the community, under the LICENSE.
+An awesome thank you to the entire Area 14 team, which have allowed their work to be made available to the community, under [the LICENSE](https://github.com/devSparkle/area-14?tab=License-1-ov-file).
 
 The work of creators that have not explicitly signed their rights, or who could not be contacted for approval, has been removed.
 
