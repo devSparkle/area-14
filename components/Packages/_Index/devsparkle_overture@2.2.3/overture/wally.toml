@@ -1,0 +1,9 @@
+[package]
+name = "devsparkle/overture"
+description = "Source code management engine for Roblox"
+version = "2.2.3"
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]

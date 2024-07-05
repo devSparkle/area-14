@@ -1,0 +1,11 @@
+{
+	"name": "area-14",
+	"emitLegacyScripts": false,
+	"tree": {
+		"$className": "DataModel",
+		
+		"ReplicatedStorage": {
+			"Overture": {"$path": "components/Packages/_Index/devsparkle_overture@2.2.3/overture"}
+		}
+	}
+}

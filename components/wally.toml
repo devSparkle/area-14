@@ -1,0 +1,12 @@
+[package]
+name = "devsparkle/area-14"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+private = true
+
+[place]
+shared-packages = "_G"
+
+[dependencies]
+Overture = "devsparkle/overture@^2.2.3"
